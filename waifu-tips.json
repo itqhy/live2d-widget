@@ -44,7 +44,10 @@
 	}, {
 		"selector": ".menu-item-search",
 		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
-	}, {
+	},  {
+		"selector": ".menu-item-comment",
+		"text": ["快看看这里都有什么呢？", "要留下点什么吗？"]
+	},{
 		"selector": ".site-author",
 		"text": ["我家主人好看吗？", "这是我家主人(*´∇｀*)"]
 	}, {
